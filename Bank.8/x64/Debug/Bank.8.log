@@ -1,0 +1,9 @@
+﻿  Bank.8.cpp
+C:\Users\ahmad\source\repos\Bank.8\Bank.8\Bank.8.cpp(158,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ahmad\source\repos\Bank.8\Bank.8\Bank.8.cpp(163,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ahmad\source\repos\Bank.8\Bank.8\Bank.8.cpp(168,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ahmad\source\repos\Bank.8\Bank.8\Bank.8.cpp(173,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ahmad\source\repos\Bank.8\Bank.8\Bank.8.cpp(189,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ahmad\source\repos\Bank.8\Bank.8\Bank.8.cpp(194,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ahmad\source\repos\Bank.8\Bank.8\Bank.8.cpp(199,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Bank.8.vcxproj -> C:\Users\ahmad\source\repos\Bank.8\x64\Debug\Bank.8.exe
